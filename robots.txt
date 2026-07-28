@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-edk3rk.indocuan-vip.sbs/sitemap.xml
